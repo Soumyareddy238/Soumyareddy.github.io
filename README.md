@@ -45,7 +45,7 @@ Programs completed through **1** and **2**.
 
 ## GitHub Portfolio
 Check my projects here:  
-https://github.com/yourusername
+https://github.com/Soumyareddy238/Soumyareddy.github.io.git
 
 ---
 
