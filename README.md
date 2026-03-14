@@ -52,4 +52,4 @@ https://github.com/yourusername
 ## Contact
 
 Email: soumyareddykotte@gmail.com@gmail.com  
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/soumyareddykotte
