@@ -38,9 +38,19 @@ Python | Flask | MongoDB | Data Analysis | Machine Learning
 • Python Full Stack Developer Virtual Internship  
 • Web Full Stack Developer Virtual Internship  
 • Zero Trust Cloud Security Virtual Internship  
-Programs completed through **1** and **2**.
+
+• Microsoft Azure AI Fundamentals: AI Overview  
+• Create Computer Vision Solutions with Azure AI Vision  
+• Develop Natural Language Processing Solutions with Azure AI Services  
+• Develop Generative AI Solutions with Azure OpenAI Service  
+• Develop Solutions with Azure AI Document Intelligence  
+
+• Fundamentals of Cybersecurity  
+• Generative AI Mastermind
+
 
 ---
+
 
 ## GitHub Portfolio
 Check my projects here:  
