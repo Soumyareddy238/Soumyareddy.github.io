@@ -38,7 +38,6 @@ Python | Flask | MongoDB | Data Analysis | Machine Learning
 • Python Full Stack Developer Virtual Internship  
 • Web Full Stack Developer Virtual Internship  
 • Zero Trust Cloud Security Virtual Internship  
-
 Programs completed through **1** and **2**.
 
 ---
@@ -53,4 +52,9 @@ https://github.com/Soumyareddy238/Soumyareddy.github.io.git
 ## Contact
 
 Email: soumyareddykotte@gmail.com@gmail.com  
-LinkedIn:https://www.linkedin.com/in/soumyareddykotte
+
+LinkedIn:
+https://www.linkedin.com/in/soumyareddykotte
+
+GitHub:
+https://github.com/Soumyareddy238
