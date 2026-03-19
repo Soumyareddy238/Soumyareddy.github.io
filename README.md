@@ -23,7 +23,6 @@ The House Price Prediction System is an end-to-end Machine Learning web applicat
 
 
 ##Technologies Used:
-
 Python | Flask | MongoDB | Data Analysis | Machine Learning
 
 ---
