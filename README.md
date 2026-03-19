@@ -22,7 +22,8 @@ A system that analyzes cloud usage data and identifies high-cost resources to he
 The House Price Prediction System is an end-to-end Machine Learning web application that predicts real estate prices based on user inputs such as location, area, and number of rooms. It also recommends similar properties and detects overpriced or underpriced listings using advanced algorithms like XGBoost, K-Nearest Neighbors (KNN), and Isolation Forest. The system is built with a Flask backend and provides an interactive user interface for real-time predictions.
 
 
-##Technologies Used:
+Technologies Used:
+
 Python | Flask | MongoDB | Data Analysis | Machine Learning
 
 ---
