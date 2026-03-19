@@ -48,11 +48,11 @@ Python | Flask | MongoDB | Data Analysis | Machine Learning
 
 ## 📜 Certifications
 
-- 🧠 Microsoft Azure AI Fundamentals → [View Certificate](cert1.jpg)  
-- 🤖 Develop Generative AI Solutions with Azure OpenAI Service → [View Certificate](cert2.jpg)  
-- 👁️ Computer Vision with Azure AI Vision → [View Certificate](cert3.jpg)  
-- 💻 Python Full Stack Developer Virtual Internship → [View Certificate](cert4.jpg)  
-- 🔐 Fundamentals of Cybersecurity → [View Certificate](cert5.jpg)  
+- 🧠 Microsoft Azure AI Fundamentals 
+- 🤖 Develop Generative AI Solutions with Azure OpenAI Service 
+- 👁️ Computer Vision with Azure AI Vision
+- 💻 Python Full Stack Developer Virtual Internship 
+- 🔐 Fundamentals of Cybersecurity
 
 
 ---
