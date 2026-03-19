@@ -61,7 +61,7 @@ https://github.com/Soumyareddy238/Soumyareddy.github.io.git
 
 ## Contact
 
-Email: soumyareddykotte@gmail.com@gmail.com  
+Email: soumyareddykotte@gmail.com  
 
 LinkedIn:
 https://www.linkedin.com/in/soumyareddykotte
