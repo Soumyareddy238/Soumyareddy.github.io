@@ -14,9 +14,16 @@ I am a passionate Computer Science student who enjoys building real-world projec
 ## Projects
 
 ### Cloud Cost Optimization Platform
+
 A system that analyzes cloud usage data and identifies high-cost resources to help reduce cloud expenses.
 
-Technologies Used:
+### House price prediction system
+
+The House Price Prediction System is an end-to-end Machine Learning web application that predicts real estate prices based on user inputs such as location, area, and number of rooms. It also recommends similar properties and detects overpriced or underpriced listings using advanced algorithms like XGBoost, K-Nearest Neighbors (KNN), and Isolation Forest. The system is built with a Flask backend and provides an interactive user interface for real-time predictions.
+
+
+##Technologies Used:
+
 Python | Flask | MongoDB | Data Analysis | Machine Learning
 
 ---
