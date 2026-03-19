@@ -15,7 +15,7 @@ I am a passionate Computer Science student who enjoys building real-world projec
 
 ### Cloud Cost Optimization Platform
 
-A system that analyzes cloud usage data and identifies high-cost resources to help reduce cloud expenses.
+The Cloud Cost Optimization Platform is a web application developed using Python and Flask that analyzes cloud usage datasets to identify high-cost resources and inefficient usage patterns. The system processes CSV-based cloud data using libraries like Pandas and NumPy to perform cost analysis and detect anomalies in resource consumption. It provides actionable insights and recommendations to help optimize cloud spending and improve resource utilization. The platform includes an interactive interface that allows users to upload datasets and view analysis results in a structured and user-friendly format.
 
 ### House price prediction system
 
